@@ -1,0 +1,9 @@
+main{
+  /* Take 80% of viewport Height */
+  min-height: 80vh;
+}
+
+.rating span {
+  margin: 0.1rem;
+}
+
